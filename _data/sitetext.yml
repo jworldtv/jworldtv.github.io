@@ -12,7 +12,7 @@
 ja: &DEFAULT_JA
   header:
     title: 海外で頑張る日本人の方へ！
-    text: 充実の77チャンネル/業界最長の30日録画
+    text: 充実の77チャンネル/最長の7日録画
     button: さらに詳しく
     buttonlink: "#services"
 
