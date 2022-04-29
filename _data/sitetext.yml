@@ -96,10 +96,7 @@ ja: &DEFAULT_JA
       - title: "iOS"
         url: https://apps.apple.com/us/app/id1287070962
         logo: assets/img/clients/ioslogo.png
-      - title: "Windows x32"
-        url: https://cdn3.bluestacks.com/downloads/windows/nxt/5.7.0.1064/064f27221f58418ba143309ca1aa9e34/FullInstaller/x86/BlueStacksFullInstaller_5.7.0.1064_x86_native.exe?filename=BlueStacksInstaller_5.7.0.1064_native_e0175934c4a0a56f1db683585ffd1bcf.exe
-        logo: assets/img/clients/windowslogo.png
-      - title: "windows x64"
+      - title: "windows"
         url: https://cdn3.bluestacks.com/downloads/windows/nxt/5.7.0.1064/064f27221f58418ba143309ca1aa9e34/FullInstaller/x64/BlueStacksFullInstaller_5.7.0.1064_amd64_native.exe?filename=BlueStacksInstaller_5.7.0.1064_native_e0175934c4a0a56f1db683585ffd1bcf.exe
         logo: assets/img/clients/windowslogo.png
       - title: "Mac OS"
