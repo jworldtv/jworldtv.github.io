@@ -1,18 +1,23 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: 半年(180日)視聴分
+subtitle: RMB 1399
+image: assets/img/portfolio/03-full.jpg
+alt:
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  title: 半年(180日)視聴分
+  subtitle: RMB 1399
+  thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+半年＝6ヶ月(180日)の視聴分です。
+
+初めてご購入の方は、1週間のお試し期間があります（180日+7日）。
+
+Alipay、WeChat、Visa、Master、Bitcoin、およびその他の仮想通貨による支払いをサポートしています。
+
+支払いリンクについては営業担当にお問い合わせください
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
-
+- クレジットカード: Visa、Master
+- オンライン支払い: Alipay、Wechat
+- 仮想通貨: Bitcoin、ETH、USDTなど

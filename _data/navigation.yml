@@ -9,50 +9,55 @@
 
 # English (default)
 # -----------------
-en: &DEFAULT_EN
+ja: &DEFAULT_JA
   nav:
-    - title: "Services"
-      section: services
-    - title: "Portfolio"
-      section: portfolio
-    - title: "About"
-      section: about
-    - title: "Timeline"
-      section: timeline
-    - title: "Team"
-      section: team
-    - title: "Contact"
-      section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
-en-US:
-  <<: *DEFAULT_EN
-en-CA:
-  <<: *DEFAULT_EN
-en-GB:
-  <<: *DEFAULT_EN
-en-AU:
-  <<: *DEFAULT_EN
-
-# Spanish
-# -------
-es: &DEFAULT_ES
+    - title: "ホーム"
+      url: https://www.jworld.tv
+    - title: "製品説明"
+      url: https://www.jworld.tv/#services
+    - title: "価格"
+      url: https://www.jworld.tv/#portfolio
+    - title: "私たちに関しては"
+      url: https://www.jworld.tv/#about
+    - title: "じかんじく"
+      url: https://www.jworld.tv/#timeline
+    - title: "試用版を入手"
+      url: https://www.jworld.tv/#team
+    - title: "ダウンロード"
+      url: https://www.jworld.tv/#clients
+    - title: "お問い合わせ"
+      url: https://www.jworld.tv/#contact
+    - title: "番組表"
+      url: https://www.jworld.tv/channel-list
+ja-JP:
+  <<: *DEFAULT_JA
+# en-US:
+#  <<: *DEFAULT_EN
+# en-CA:
+#  <<: *DEFAULT_EN
+# en-GB:
+#  <<: *DEFAULT_EN
+# en-AU:
+#  <<: *DEFAULT_EN
+zh: &DEFAULT_ZH_HANS
   nav:
-    - title: "Servicios"
-      section: servicios
-    - title: "Portafolio"
-      section: portafolio
-    - title: "Sobre Nosotros"
-      section: nosotros
-    - title: "Cronología"
-      section: cronologia
-    - title: "Equipo"
-      section: equipo
-    - title: "Contáctenos"
-      section: contacto
-    - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
+    - title: "首页"
+      url: https://newhome.club
+    - title: "产品介绍"
+      url: https://newhome.club/#services
+    - title: "价格"
+      url: https://newhome.club/#portfolio
+    - title: "关于我们"
+      url: https://newhome.club/#about
+    - title: "发展历程"
+      url: https://newhome.club/#timeline
+    - title: "申请试用"
+      url: https://newhome.club/#team
+    - title: "下载"
+      url: https://newhome.club/#clients
+    - title: "联系我们"
+      url: https://newhome.club/#contact
+    - title: "节目单"
+      url: https://newhome.club/channel-list
+zh-CN:
+  <<: *DEFAULT_ZH_HANS
