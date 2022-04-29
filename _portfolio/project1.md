@@ -1,12 +1,12 @@
 ---
 title: 3ヶ月(90日)視聴分
-subtitle: RMB 799
+subtitle: RMB 599
 image: assets/img/portfolio/02-full.jpg
 alt: Keep Exploring
 
 caption:
   title: 3ヶ月(90日)視聴分
-  subtitle: RMB 799
+  subtitle: RMB 599
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
 3ヶ月(90日)の視聴分です。
