@@ -29,7 +29,7 @@ locale: "ja-JP"
 #locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google:  #Google Analytics tracking code here
+  google: G-L0TE7926L3 #Google Analytics tracking code here
 
 collections:
   portfolio:
