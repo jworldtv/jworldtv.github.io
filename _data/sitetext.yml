@@ -91,7 +91,7 @@ ja: &DEFAULT_JA
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "Android"
-        url: https://ghproxy.com/https://github.com/jworldtv/jworldtv.github.io/releases/download/v3.11/JWorld_3.11_Final.apk
+        url: https://ghproxy.com/https://github.com/jworldtv/jworldtv.github.io/releases/download/v3.11/JWorld_V2.apk
         logo: assets/img/clients/androidlogo.png
       - title: "iOS"
         url: https://apps.apple.com/us/app/id1287070962
