@@ -21,3 +21,7 @@ Alipay、WeChat、Visa、Master、Bitcoin、およびその他の仮想通貨に
 - クレジットカード: Visa、Master
 - オンライン支払い: Alipay、Wechat
 - 仮想通貨: Bitcoin、ETH、USDTなど
+
+<a href="https://trolley.link/p/76KWM6X" data-trolley="true" data-tpk="76KWM6X">
+    Buy Now
+</a>
