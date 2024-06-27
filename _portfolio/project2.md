@@ -22,10 +22,7 @@ Alipay、WeChat、Visa、Master、JCB、Bitcoin、およびその他の仮想通
 
 {% raw %}
 <button style="background-color: #3d94f6; border-radius: 6px; border: 1px solid #337fed; display: inline-block; cursor: pointer; color: #ffffff; font-family: Arial; font-size: 15px; font-weight: bold; padding: 6px 24px; text-decoration: none; text-shadow: 0px 1px 0px #1570cd;" data-trolley="true" data-tpk="76KWM6X" type="button" class="btn btn-primary btn-xl text-uppercase js-scroll-trigger trolley-button" onclick="window.location.href='https://trolley.link/p/76KWM6X';">
-  Buy Now - Button
+  Buy Now
 </button>
-<a href="https://trolley.link/p/76KWM6X" data-trolley="true" class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"  data-tpk="76KWM6X">
-  Buy Now - A
-</a>
 <script async src="https://widget.trolley.link/cart.js" type="text/javascript"></script>
 {% endraw %}
