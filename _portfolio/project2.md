@@ -6,7 +6,7 @@ alt:
 
 caption:
   title: 半年(180日)視聴分
-  subtitle: RMB 1099
+  subtitle: USD 151.5 ≈ JPY 24200 ≈ CNY 1099
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
 半年＝6ヶ月(180日)の視聴分です。

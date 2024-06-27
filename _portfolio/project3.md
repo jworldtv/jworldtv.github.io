@@ -7,6 +7,7 @@ alt:
 caption:
   title: 1年(365日)視聴分
   subtitle: RMB 1999
+  subtitle: USD 275 ≈ JPY 44000 ≈ CNY 1999
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
 1年(365日)の視聴分です。
