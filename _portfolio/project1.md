@@ -30,8 +30,9 @@ Alipay、WeChat、Visa、Master、Bitcoin、およびその他の仮想通貨に
   class="btn btn-primary"
   data-dismiss="modal"
   type="button"
+  href="https://trolley.link/p/76KWM6X"
+  data-trolley="true"
+  data-tpk="76KWM6X"
 >
-  <a href="https://trolley.link/p/76KWM6X" data-trolley="true" data-tpk="76KWM6X">
-    Buy Now
-  </a>
+Buy Now
 </button>
