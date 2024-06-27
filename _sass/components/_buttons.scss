@@ -24,3 +24,32 @@
     box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
   }
 }
+
+.trolley-button {
+  @extend .btn; // Inherit general button styles
+  @extend .btn-primary; // Inherit primary button styles
+  @extend .btn-xl; // Inherit extra-large button styles
+
+  // Trolley-specific styles
+  cursor: pointer;
+  transition: all 0.3s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  &:active {
+    transform: translateY(1px);
+  }
+
+  // Ensure text is visible
+  color: white !important;
+
+  // Optional: Add a subtle indication that this is a payment button
+  &::after {
+    content: ' 💳';
+    font-size: 0.9em;
+    margin-left: 5px;
+  }
+}
