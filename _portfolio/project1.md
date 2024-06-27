@@ -21,17 +21,17 @@ Alipay、WeChat、Visa、Master、Bitcoin、およびその他の仮想通貨に
 - クレジットカード: Visa、Master、JCB
 - オンライン支払い: Alipay、Wechat
 
-<a href="https://trolley.link/p/76KWM6X" type="button" data-tpk="76KWM6X">
+<a href="https://trolley.link/p/76KWM6X" type="button" data-trolley="true" data-tpk="76KWM6X">
     Buy Now
 </a>
-<script async src="https://widget.trolley.link/cart.js" type="text/javascript"></script>
+<script async src="assets/js/cart.js" type="text/javascript"></script>
 
 <button
   class="btn btn-primary"
   data-dismiss="modal"
   type="button"
 >
-<a href="https://trolley.link/p/76KWM6X" data-tpk="76KWM6X">
+  <a href="https://trolley.link/p/76KWM6X" data-trolley="true" data-tpk="76KWM6X">
     Buy Now
-</a>
+  </a>
 </button>
