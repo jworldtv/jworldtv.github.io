@@ -28,3 +28,4 @@ Alipay、WeChat、Visa、Master、Bitcoin、およびその他の仮想通貨に
 {% endraw %}
 
 {% include buybutton.html, url="https://trolley.link/p/76KWM6X" %}
+{% include paytest.html %}
