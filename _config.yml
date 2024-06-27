@@ -17,10 +17,10 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "https://www.jworld.tv" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Jworld Japan TV
+title      : JWorld Japan TV
 email      : info@jworld.tv #this is also the email contact forms will go to
-description: "Jworld Japan TV - 海外で日本のネットテレビ"
-author     : jworld
+description: "JWorld Japan TV - 海外で日本のネットテレビ"
+author     : JWorld
 logo:     #optional, defaults to site title
   path: jworldlogo.png
   height: 52 #height in px, defaults to 52px
