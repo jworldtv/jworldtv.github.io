@@ -21,7 +21,7 @@ Alipay、WeChat、Visa、Master、JCB、Bitcoin、およびその他の仮想通
 - オンライン支払い: Alipay、Wechat
 
 {% raw %}
-<button data-trolley="true" data-tpk="76KWM6X" type="button" class="btn btn-xl text-uppercase js-scroll-trigger" onclick="window.location.href='https://trolley.link/p/76KWM6X';">
+<button data-trolley="true" data-tpk="76KWM6X" class="btn btn-xl text-uppercase js-scroll-trigger" onclick="window.location.href='https://trolley.link/p/76KWM6X';">
   Buy Now
 </button>
 <script async src="https://widget.trolley.link/cart.js" type="text/javascript"></script>
