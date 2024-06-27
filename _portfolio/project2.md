@@ -28,5 +28,3 @@ data-tpk="76KWM6X">
 </a>
 <script async src="https://widget.trolley.link/cart.js" type="text/javascript"></script>
 {% endraw %}
-
-{% include buybutton.html, url="https://trolley.link/p/76KWM6X" %}
