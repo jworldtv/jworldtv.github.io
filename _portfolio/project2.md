@@ -26,3 +26,4 @@ Alipay、WeChat、Visa、Master、JCB、Bitcoin、およびその他の仮想通
 </button>
 <script async src="https://widget.trolley.link/cart.js" type="text/javascript"></script>
 {% endraw %}
+{% include buybutton.html %}
