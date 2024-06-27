@@ -8,7 +8,7 @@ caption:
   subtitle: USD 151.5 ≈ JPY 24200 ≈ CNY 1099
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-半年＝6ヶ月(180日)の視聴分です。
+半年 6ヶ月(180日)の視聴分です。
 
 初めてご購入の方は、1週間のお試し期間があります（180日+7日）。
 
