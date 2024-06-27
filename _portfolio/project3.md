@@ -19,6 +19,5 @@ Alipay、WeChat、Visa、Master、Bitcoin、およびその他の仮想通貨に
 支払いリンクについては営業担当にお問い合わせください
 
 {:.list-inline}
-- クレジットカード: Visa、Master
+- クレジットカード: Visa、Master、JCB
 - オンライン支払い: Alipay、Wechat
-- 仮想通貨: Bitcoin、ETH、USDTなど

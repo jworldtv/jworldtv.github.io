@@ -18,10 +18,11 @@ Alipay、WeChat、Visa、Master、Bitcoin、およびその他の仮想通貨に
 支払いリンクについては営業担当にお問い合わせください
 
 {:.list-inline}
-- クレジットカード: Visa、Master
+- クレジットカード: Visa、Master、JCB
 - オンライン支払い: Alipay、Wechat
-- 仮想通貨: Bitcoin、ETH、USDTなど
 
 <a href="https://trolley.link/p/76KWM6X" data-trolley="true" data-tpk="76KWM6X">
     Buy Now
 </a>
+
+<button type="button" onclick="window.location.href='https://trolley.link/p/76KWM6X'">Buy Now</button>
