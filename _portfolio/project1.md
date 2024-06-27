@@ -1,7 +1,7 @@
 ---
 title: 3ヶ月(90日)視聴分
 image: assets/img/portfolio/01-full.jpg
-alt: Keep Exploring
+alt: 3ヶ月(90日)視聴分
 
 caption:
   title: 3ヶ月(90日)視聴分
@@ -19,4 +19,3 @@ Alipay、WeChat、Visa、Master、Bitcoin、およびその他の仮想通貨に
 {:.list-inline}
 - クレジットカード: Visa、Master、JCB
 - オンライン支払い: Alipay、Wechat
-

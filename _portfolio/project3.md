@@ -14,7 +14,7 @@ caption:
 
 初めてご購入の方は、1週間のお試し期間があります（365日+7日）。
 
-Alipay、WeChat、Visa、Master、Bitcoin、およびその他の仮想通貨による支払いをサポートしています。
+Alipay、WeChat、Visa、Master、JCB、Bitcoin、およびその他の仮想通貨による支払いをサポートしています。
 
 支払いリンクについては営業担当にお問い合わせください
 

@@ -1,8 +1,7 @@
 ---
 title: 半年(180日)視聴分
-subtitle: RMB 1099
 image: assets/img/portfolio/02-full.jpg
-alt:
+alt: 半年(180日)視聴分
 
 caption:
   title: 半年(180日)視聴分
@@ -13,7 +12,7 @@ caption:
 
 初めてご購入の方は、1週間のお試し期間があります（180日+7日）。
 
-Alipay、WeChat、Visa、Master、Bitcoin、およびその他の仮想通貨による支払いをサポートしています。
+Alipay、WeChat、Visa、Master、JCB、Bitcoin、およびその他の仮想通貨による支払いをサポートしています。
 
 支払いリンクについては営業担当にお問い合わせください
 
