@@ -6,7 +6,7 @@ alt: Keep Exploring
 
 caption:
   title: 3ヶ月(90日)視聴分
-  subtitle: RMB 599
+  subtitle: USD82.5 ≈ JPY13200 ≈ CNY599
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
 3ヶ月(90日)の視聴分です。
