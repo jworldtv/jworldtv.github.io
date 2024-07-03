@@ -30,7 +30,7 @@ ja: &DEFAULT_JA
     - title: "番組表"
       url: https://www.jworld.tv/channel-list
     - title: "Blog"
-      url: https://www.jworld.tv/blog
+      url: /blog
 ja-JP:
   <<: *DEFAULT_JA
 # en-US:
