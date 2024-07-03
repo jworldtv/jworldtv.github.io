@@ -29,6 +29,8 @@ ja: &DEFAULT_JA
       url: https://www.jworld.tv/#contact
     - title: "番組表"
       url: https://www.jworld.tv/channel-list
+    - title: "Blog"
+      url: https://www.jworld.tv/blog
 ja-JP:
   <<: *DEFAULT_JA
 # en-US:
