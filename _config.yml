@@ -43,5 +43,5 @@ formspree_form_path: "f/xayvldlq"
 permalink: /blog/:year/:month/:day/:title
 
 plugins:
-  - jekyll-remote-them
+  - jekyll-remote-theme
   - jekyll-sitemap
